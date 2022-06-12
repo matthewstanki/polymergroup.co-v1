@@ -10,6 +10,7 @@ Done: 10 June 2022
 - Fully working and responsive.
 - Desktop, mobile and tablet compatible.
 - Version 1.
+- 5 languages.
 - CTA working.
 - SSL done.
 - 10 pages on the website.
